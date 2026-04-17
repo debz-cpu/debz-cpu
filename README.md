@@ -13,108 +13,154 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm an IT Student & Aspiring Systems / Software Professional
+---
 
-I’m currently finishing my IT training at **CodeFactory**, where I’ve built a strong foundation across **software development, networking, system administration, and software testing**. I enjoy working across the full stack of systems — from building applications to understanding how networks and infrastructure keep them running.
+# 👋 Hi, I'm Kingsley Debrah
 
-I’m particularly interested in **Networking, System Administration, and Software Testing**, alongside software development.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=700&lines=IT+Support+%7C+Software+Developer+in+Training;Networking+%26+System+Administration+Enthusiast;Backend+%26+Full-Stack+Developer;QA+%26+Software+Testing+Interest)
+
+---
+
+## 📍 About Me
+I am an IT professional in training currently studying at **CodeFactory (Backend Web Development Evening Program)**.  
+I have hands-on experience in **IT support, software development, networking, system administration, and database systems**.
+
+I enjoy working across both **software and infrastructure**, especially:
+- 🌐 Networking & System Administration  
+- 🧪 Software Testing / QA  
+- 💻 Backend Development  
+- 🗄️ Databases & System Design  
+
+---
+
+## 🎓 Education
+
+**CodeFactory – Backend Web Development (2026 - Present)**  
+- Programming & Software Engineering  
+- Databases & Information Systems  
+- Network & Distributed Systems (CCNA concepts)  
+- Media Technology  
+- System Planning & Project Development  
+
+**HTL Wien West (2020 - 2025)**  
+- Software Engineering  
+- Databases & Information Systems  
+- Networking & Distributed Systems  
+- Media Technology  
+- Project Development  
+
+**Kumasi Academy (2014 - 2016)**  
+- Natural Sciences (Math, Physics, Chemistry, Biology, IT)
+
+---
+
+## 💼 Work Experience
+
+### 🛒 Sales & Operations Assistant – Snipes (Since 2022)
+- Managed cash register and store operations  
+- Scanned and updated inventory systems  
+- Supported daily customer service and merchandising  
+- Ensured smooth retail operations  
+
+### 🧾 IT / Digital Support – Samariterbund (2021 - 2022)
+- First-level IT support for digital systems  
+- Error analysis for software and system issues  
+- Ensured correct data transmission to central systems  
+- Handled sensitive data collection and validation  
+- Supported digital workflow systems  
 
 ---
 
 ## 💻 Technical Skills
 
 ### Frontend Development
-
-* HTML, CSS, JavaScript
-* Bootstrap
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend Development
+- Java (OOP, Maven, Gradle)  
+- PHP (Symfony, REST APIs, OOP)  
+- C++ (OOP)  
+- JSON APIs  
 
-* Java (OOP, Maven, Gradle)
-* PHP (OOP, REST APIs, Symfony Framework)
-* C++ (OOP)
-* JSON
+### Databases
+- SQL (MySQL)  
+- MongoDB  
+- Database Design & ER Modeling  
 
-### Databases & Data Modeling
-
-* SQL
-* MySQL, MongoDB
-* Relational Database Design
-* ER Modeling
+### Systems & Administration
+- Linux (SSH, shell, permissions, PuTTY)  
+- Windows Server (Active Directory, NTFS, firewall)  
 
 ### Networking & Security
+- TCP/IP, NAT/PAT, ACLs  
+- Routing (EIGRP, RIP), Spanning Tree Protocol  
+- SSH / Telnet  
+- Wireshark (network analysis)  
 
-* TCP/IP, NAT/PAT, ACLs
-* Routing protocols (EIGRP, RIP)
-* Spanning Tree Protocol
-* SSH / Telnet
-* Network analysis with Wireshark
-
-### System Administration
-
-* Linux (SSH, shell commands, permissions, remote access via PuTTY)
-* Windows Server (Active Directory, NTFS permissions, firewall configuration)
-
-### Software Testing
-
-* Manual testing concepts
-* Test case design and execution
-* Debugging and validation of applications
-* Basic QA mindset and structured testing approach
-
-### Cloud & Infrastructure
-
-* Oracle Cloud Infrastructure (OCI) – Data Platform, AI & Cloud Foundations
-
-### DevOps & Tools
-
-* Docker (containerization)
-* Apache, XAMPP
-* cPanel, FileZilla (FTP/SFTP)
-* Composer (dependency management)
+### Cloud & DevOps
+- Oracle Cloud Infrastructure (OCI)  
+- Docker (containerization)  
+- Apache, XAMPP  
+- FileZilla, cPanel  
+- Composer (dependency management)  
 
 ### Version Control & Collaboration
-
-* Git, GitHub
-* Feature branch workflow (develop/feature branches)
-* Pull requests, code reviews, merging
-* Team-based development workflows
-
-### Project Management
-
-* Scrum methodology
-* Technical documentation
-* Workflow organization
-* Team collaboration
+- Git, GitHub  
+- Feature branching workflow (develop/feature branches)  
+- Pull Requests, Code Reviews, Merging  
+- Team-based Agile development  
 
 ---
 
-## 🚀 Current Experience
+## 🧪 Software Testing / QA
+- Manual testing & test case creation  
+- Debugging & validation of applications  
+- Quality assurance mindset  
+- Structured testing approach  
 
-I am currently completing my training at **CodeFactory**, where I am actively working on a team-based software project.
+---
 
-We use a real development workflow:
+## 📊 Project Experience
+I am currently working on a **team-based software project at CodeFactory**, where I actively use:
 
-* Feature branches from `develop`
-* Pull requests for code review
-* Merging after approval
-* Git workflows (fetch, pull, branch management)
+- Git branching workflows  
+- Pull request reviews  
+- Code merging and collaboration  
+- Fetch, pull, and repository synchronization  
 
-This experience has helped me understand real-world collaboration and professional development practices.
+This has helped me gain real-world development team experience.
+
+---
+
+## 🌍 Languages
+- English  
+- German  
+- Akan (Twi)  
 
 ---
 
 ## 🎯 Career Interests
-
-I am actively looking to grow in roles such as:
-
-* Network Engineering / Networking Support
-* System Administration / IT Support
-* Software Testing / QA Engineering
-* Backend or Full-Stack Development
+I am actively seeking opportunities in:
+- 🌐 Networking / IT Support  
+- 🖥️ System Administration  
+- 🧪 Software Testing / QA  
+- 💻 Backend / Full-Stack Development  
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Contact & Links
+- 📧 Email: kingsleydebrah98@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/kingsley-debrah-8902822b9  
+- 🌐 Portfolio: https://debz-cpu.github.io/Portfolio/
 
-I’m open to internship and junior opportunities where I can contribute, learn, and grow in real-world IT environments.
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ *Always learning, building, and improving.*
