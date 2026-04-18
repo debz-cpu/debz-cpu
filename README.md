@@ -44,8 +44,7 @@ I enjoy working across both **software and infrastructure**, especially:
 - Software Engineering  
 - Databases & Information Systems  
 - Networking & Distributed Systems (CCNA concepts & fundamentals)
-- Windows Server Administration
-- Active Directory (users, groups, permissions, policies)
+- Windows Server Administration: Active Directory (users, groups, permissions, policies)
 - Linux Administration (CLI, permissions, SSH, file systems, scripting basics)
 - System Planning & Project Development
 - Media Technology
