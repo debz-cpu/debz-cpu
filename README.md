@@ -38,16 +38,17 @@ I enjoy working across both **software and infrastructure**, especially:
 **CodeFactory – Backend Web Development (2026 - Present)**  
 - Programming & Software Engineering  
 - Databases & Information Systems  
-- Network & Distributed Systems (CCNA concepts)  
-- Media Technology  
 - System Planning & Project Development  
 
 **HTL Wien West (2020 - 2025)**  
 - Software Engineering  
 - Databases & Information Systems  
-- Networking & Distributed Systems  
-- Media Technology  
-- Project Development  
+- Networking & Distributed Systems (CCNA concepts & fundamentals)
+- Windows Server Administration
+- Active Directory (users, groups, permissions, policies)
+- Linux Administration (CLI, permissions, SSH, file systems, scripting basics)
+- System Planning & Project Development
+- Media Technology
 
 **Kumasi Academy (2014 - 2016)**  
 - Natural Sciences (Math, Physics, Chemistry, Biology, IT)
@@ -55,12 +56,6 @@ I enjoy working across both **software and infrastructure**, especially:
 ---
 
 ## 💼 Work Experience
-
-### 🛒 Sales & Operations Assistant – Snipes (Since 2022)
-- Managed cash register and store operations  
-- Scanned and updated inventory systems  
-- Supported daily customer service and merchandising  
-- Ensured smooth retail operations  
 
 ### 🧾 IT / Digital Support – Samariterbund (2021 - 2022)
 - First-level IT support for digital systems  
@@ -91,8 +86,9 @@ I enjoy working across both **software and infrastructure**, especially:
 - Database Design & ER Modeling  
 
 ### Systems & Administration
-- Linux (SSH, shell, permissions, PuTTY)  
-- Windows Server (Active Directory, NTFS, firewall)  
+- Windows Server: Active Directory (user/group management, permissions, GPO basics, NTFS, firewall)
+- Linux Administration: SSH, shell commands, file permissions, Remote access via PuTTY ,
+  Basic troubleshooting and system maintenance
 
 ### Networking & Security
 - TCP/IP, NAT/PAT, ACLs  
