@@ -22,14 +22,11 @@ Here are some ideas to get you started:
 ---
 
 ## 📍 About Me
-I am an IT professional in training currently studying at **CodeFactory (Backend Web Development Evening Program)**.  
-I have hands-on experience in **IT support, software development, networking, system administration, and database systems**.
+Backend developer and IT professional with an Informatics diploma and practical experience in software systems, technical support, networking, and infrastructure.
 
-I enjoy working across both **software and infrastructure**, especially:
-- 🌐 Networking & System Administration  
-- 🧪 Software Testing / QA  
-- 💻 Backend Development  
-- 🗄️ Databases & System Design  
+I build web applications with PHP, Symfony, SQL, and modern development workflows, with a strong interest in scalable architecture, databases, and production-ready systems.
+
+My background across both development and infrastructure helps me understand how complete systems are designed, deployed, and maintained.
 
 ---
 
