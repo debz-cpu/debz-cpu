@@ -14,145 +14,82 @@ Here are some ideas to get you started:
 -->
 
 ---
+# Hi, I'm Kingsley 👋
 
-# 👋 Hi, I'm Kingsley Debrah
+Backend developer and IT professional with a diploma in Informatics, further specialized in Backend Web Development (PHP / Symfony).
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=700&lines=IT+Support+%7C+Software+Developer+in+Training;Networking+%26+System+Administration+Enthusiast;Backend+%26+Full-Stack+Developer;QA+%26+Software+Testing+Interest)
+I build reliable web applications and technical systems with experience across software development, networking, databases, and system administration.
 
----
-
-## 📍 About Me
-Backend developer and IT professional with an Informatics diploma and practical experience in software systems, technical support, networking, and infrastructure.
-
-I build web applications with PHP, Symfony, SQL, and modern development workflows, with a strong interest in scalable architecture, databases, and production-ready systems.
-
-My background across both development and infrastructure helps me understand how complete systems are designed, deployed, and maintained.
+I focus on backend logic, clean architecture, maintainable code, and understanding how complete systems run — from application layer to infrastructure.
 
 ---
 
-## 🎓 Education
+## 🧠 Tech Stack
 
-**CodeFactory – Backend Web Development (2026 - Present)**  
-- Programming & Software Engineering  
-- Databases & Information Systems  
-- System Planning & Project Development  
+### Backend
+- PHP (Symfony)
+- Java
+- REST APIs
+- Authentication & Sessions
+- OOP / MVC
 
-**HTL Wien West (2020 - 2025)**  
-- Software Engineering  
-- Databases & Information Systems  
-- Networking & Distributed Systems (CCNA concepts & fundamentals)
-- Windows Server Administration: Active Directory (users, groups, permissions, policies)
-- Linux Administration (CLI, permissions, SSH, file systems, scripting basics)
-- System Planning & Project Development
-- Media Technology
-
-**Kumasi Academy (2014 - 2016)**  
-- Natural Sciences (Math, Physics, Chemistry, Biology, IT)
-
----
-
-## 💼 Work Experience
-
-### 🧾 IT / Digital Support – Samariterbund (2021 - 2022)
-- First-level IT support for digital systems  
-- Error analysis for software and system issues  
-- Ensured correct data transmission to central systems  
-- Handled sensitive data collection and validation  
-- Supported digital workflow systems  
-
----
-
-## 💻 Technical Skills
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend Development
-- Java (OOP, Maven, Gradle)  
-- PHP (Symfony, REST APIs, OOP)  
-- C++ (OOP)  
-- JSON APIs  
+### Frontend
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Vue (academic experience)
 
 ### Databases
-- SQL (MySQL)  
-- MongoDB  
-- Database Design & ER Modeling  
+- MySQL
+- SQL
+- MongoDB
 
-### Systems & Administration
-- Windows Server: Active Directory (user/group management, permissions, GPO basics, NTFS, firewall)
-- Linux Administration: SSH, shell commands, file permissions, Remote access via PuTTY ,
-  Basic troubleshooting and system maintenance
+### Systems & Infrastructure
+- Linux
+- Windows Server
+- Active Directory
+- Networking Fundamentals
+- Wireshark
 
-### Networking & Security
-- TCP/IP, NAT/PAT, ACLs  
-- Routing (EIGRP, RIP), Spanning Tree Protocol  
-- SSH / Telnet  
-- Wireshark (network analysis)  
-
-### Cloud & DevOps
-- Oracle Cloud Infrastructure (OCI)  
-- Docker (containerization)  
-- Apache, XAMPP  
-- FileZilla, cPanel  
-- Composer (dependency management)  
-
-### Version Control & Collaboration
-- Git, GitHub  
-- Feature branching workflow (develop/feature branches)  
-- Pull Requests, Code Reviews, Merging  
-- Team-based Agile development  
+### Tools
+- Git & GitHub
+- Docker
+- Apache
+- Composer
 
 ---
 
-## 🧪 Software Testing / QA
-- Manual testing & test case creation  
-- Debugging & validation of applications  
-- Quality assurance mindset  
-- Structured testing approach  
+## 🚀 What I’ve built / worked on
+
+- Backend web applications with database-driven logic
+- Authentication systems and CRUD platforms
+- API-connected applications
+- Technical support environments
+- Team-based software projects using Git workflows
+
+I focus on practical systems that solve real problems and can be maintained.
 
 ---
 
-## 📊 Project Experience
-I am currently working on a **team-based software project at CodeFactory**, where I actively use:
+## 📈 Currently improving
 
-- Git branching workflows  
-- Pull request reviews  
-- Code merging and collaboration  
-- Fetch, pull, and repository synchronization  
-
-This has helped me gain real-world development team experience.
+- Advanced Symfony development
+- API architecture
+- Docker workflows
+- Scalable backend patterns
+- System design thinking
 
 ---
 
-## 🌍 Languages
-- English  
-- German  
-- Akan (Twi)  
+## 🌍 About Me
+
+- Based in Vienna, Austria
+- Open to Backend / Junior Software Developer opportunities
 
 ---
 
-## 🎯 Career Interests
-I am actively seeking opportunities in:
-- 🌐 Networking / IT Support  
-- 🖥️ System Administration  
-- 🧪 Software Testing / QA  
-- 💻 Backend / Full-Stack Development  
+## 📫 Contact
 
----
-
-## 📫 Contact & Links
-- 📧 Email: kingsleydebrah98@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/kingsley-debrah-8902822b9  
-- 🌐 Portfolio: https://debz-cpu.github.io/Portfolio/
-
----
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-⭐ *Always learning, building, and improving.*
+- LinkedIn: your-link
+- Portfolio: https://debz-cpu.github.io/Portfolio/
