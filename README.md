@@ -28,7 +28,6 @@ I focus on backend logic, clean architecture, maintainable code, and understandi
 
 ### Backend
 - PHP (Symfony)
-- Java
 - REST APIs
 - Authentication & Sessions
 - OOP / MVC
@@ -43,8 +42,7 @@ I focus on backend logic, clean architecture, maintainable code, and understandi
 ### Databases
 - MySQL
 - SQL
-- MongoDB
-
+  
 ### Systems & Infrastructure
 - Linux
 - Windows Server
@@ -85,7 +83,7 @@ I focus on practical systems that solve real problems and can be maintained.
 ## 🌍 About Me
 
 - Based in Vienna, Austria
-- Open to Backend / Junior Software Developer opportunities
+- Open to Backend / Junior Software Developer and Networking and system administration  opportunities 
 
 ---
 
