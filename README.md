@@ -27,6 +27,7 @@ I focus on backend logic, clean architecture, maintainable code, and understandi
 ## 🧠 Tech Stack
 
 ### Backend
+- Javascript (nodejs)
 - PHP (Symfony)
 - REST APIs
 - Authentication & Sessions
@@ -47,6 +48,8 @@ I focus on backend logic, clean architecture, maintainable code, and understandi
 - Linux
 - Windows Server
 - Active Directory
+- Entra ID
+- Entra Connect
 - Networking Fundamentals
 - Wireshark
 
@@ -55,6 +58,8 @@ I focus on backend logic, clean architecture, maintainable code, and understandi
 - Docker
 - Apache
 - Composer
+- npm
+- nginx
 
 ---
 
