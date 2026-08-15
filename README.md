@@ -58,7 +58,6 @@ My current focus is:
 * JavaScript
 * Bootstrap
 * Vue
-* React
 
 ### Databases
 
@@ -94,6 +93,8 @@ My current focus is:
 * Windows Server
 * Active Directory
 * Entra ID
+* Entra Connect
+
 
 ### Infrastructure & Homelab
 
@@ -340,20 +341,15 @@ I'm expanding from backend development into DevOps and DevSecOps.
 * CI/CD
 * Nginx
 * Linux
-* Infrastructure as Code
-* Terraform
-* Cloud infrastructure
+
 
 ### DevSecOps
 
 * Secure CI/CD pipelines
-* SAST
 * Dependency scanning
 * Container security
 * Infrastructure security
-* Threat modeling
-* Security gates
-* Kubernetes security
+
 
 ### Networking
 
