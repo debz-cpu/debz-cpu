@@ -25,6 +25,7 @@ I build and deploy backend systems while developing a deeper understanding of th
 My current focus is:
 
 * Backend engineering with PHP/Symfony and Node.js
+* Java and Spring Boot development
 * REST API design and authentication
 * SQL and relational database design
 * Docker and containerized applications
@@ -45,6 +46,7 @@ My current focus is:
 * Symfony
 * Node.js
 * JavaScript
+* Java
 * REST APIs
 * OOP
 * MVC
@@ -127,6 +129,24 @@ My current focus is:
 ---
 
 # 🚀 Featured Projects
+
+## 🏦 Java Banking System CLI
+
+Console-based banking application built to practice core Java and OOP fundamentals, moving from a PHP/Symfony background into the JVM ecosystem.
+
+**Technologies:**
+
+Java • Maven • OOP • Git
+
+Highlights:
+
+* Encapsulated account logic (deposit, withdraw, balance) via OOP
+* Input validation and control flow (do-while menu loop)
+* Designed class structure and logic flow before implementation
+* Version-controlled with feature branches and Git workflow
+
+🔗 Repo: https://github.com/debz-cpu/java-banking-system-cli
+---
 
 ## 🔐 DevSecOps Pipeline
 
