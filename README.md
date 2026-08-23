@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 ---
 # Hi, I'm Kingsley 👋
 
-### Junior Software Engineer | Backend • DevOps • IT Security
+### Junior Software Engineer | Backend (Java/Spring Boot, PHP/Symfony) • DevOps • IT Security
 
 I'm an Informatics graduate and Computer Science student based in Vienna, Austria, focused on backend engineering, DevOps, networking and IT security.
 
-I build and deploy backend systems while developing a deeper understanding of the infrastructure, networking and security behind them.
+I build and deploy backend systems while developing a deeper understanding of the infrastructure, networking and security behind them. My backend work spans PHP/Symfony and, more recently, Java/Spring Boot — including a full CRUD REST API built from scratch with layered architecture, DTOs, and centralized exception handling.
 
 My current focus is:
 
-* Backend engineering with PHP/Symfony and Node.js
+* Backend engineering with PHP/Symfony and java/spring Boot
 * Java and Spring Boot development
 * REST API design and authentication
 * SQL and relational database design
@@ -130,6 +130,21 @@ My current focus is:
 ---
 
 # 🚀 Featured Projects
+
+### 🗂️ Task API — Spring Boot REST API
+A layered CRUD REST API built with Spring Boot, applying the same architectural principles I first learned in Symfony (Controller → Service → layered separation of concerns) to the Java ecosystem.
+
+**Technologies:**
+Java • Spring Boot • Maven • Docker
+
+**Highlights:**
+- Full CRUD REST API (GET, POST, PUT, DELETE) with a layered Controller-Service architecture
+- DTOs to separate client-facing request contracts from internal domain models, preventing clients from setting server-controlled fields
+- Centralized exception handling (`@RestControllerAdvice`) for consistent HTTP error responses
+- Correct REST conventions: `201 Created` with `Location` header, `204 No Content`, path variables, JSON request/response bodies
+- Multi-stage Dockerfile for a minimal, production-ready image
+
+🔗 Repo: https://github.com/debz-cpu/task-api
 
 ## 🏦 Java Banking System CLI
 
